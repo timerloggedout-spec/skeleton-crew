@@ -1,0 +1,6 @@
+# Kiroween deliverable rule: /.kiro MUST be committed - never ignore it.
+# (no .kiro entry here, deliberately)
+node_modules/
+dist/
+.env
+*.log
